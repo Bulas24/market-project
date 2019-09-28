@@ -1,0 +1,788 @@
+[2019-08-12 16:11:07] Текст ошибки: 
+        Call to undefined method ishop\Router::dispatch() | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\App.php | Строка ошибки : 20
+====================
+[2019-08-12 16:45:17] Текст ошибки: 
+        Контроллер app\controllers\IndexController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 44
+====================
+[2019-08-12 16:46:14] Текст ошибки: 
+        Контроллер  не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 44
+====================
+[2019-08-12 16:47:53] Текст ошибки: 
+        Контроллер app\controllers\DddController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 44
+====================
+[2019-08-12 16:48:06] Текст ошибки: 
+        Контроллер app\controllers\DddController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 44
+====================
+[2019-08-12 16:48:18] Текст ошибки: 
+        Контроллер app\controllers\DddController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 44
+====================
+[2019-08-12 16:48:41] Текст ошибки: 
+        Контроллер app\controllers\DddController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 44
+====================
+[2019-08-12 16:48:44] Текст ошибки: 
+        Контроллер app\controllers\DddController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 44
+====================
+[2019-08-12 16:52:07] Текст ошибки: 
+        Контроллер app\controllers\DddController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 44
+====================
+[2019-08-12 17:03:17] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\CategoryController.php | Строка ошибки : 20
+====================
+[2019-08-13 06:46:00] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-13 06:46:00] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-13 07:03:37] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-13 07:04:28] Текст ошибки: 
+        Метод app\controllers\MainController::index1Action не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-13 07:15:14] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-13 07:30:52] Текст ошибки: 
+        Страница продукта  не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\ProductController.php | Строка ошибки : 17
+====================
+[2019-08-13 07:31:36] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-13 07:31:55] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-13 07:32:06] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-13 07:43:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-13 07:43:13] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-13 07:46:44] Текст ошибки: 
+        Контроллер app\controllers\Main1Controller не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 44
+====================
+[2019-08-13 07:46:51] Текст ошибки: 
+        Контроллер app\controllers\Main1Controller не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 44
+====================
+[2019-08-13 13:58:44] Текст ошибки: 
+        Метод app\controllers\ProductallController::indexAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-13 13:58:44] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-13 13:59:11] Текст ошибки: 
+        Не найден вид C:\OpenServer\OSPanel\domains\ishop2.loc/app/views/Productall/index.php | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\base\View.php | Строка ошибки : 43
+====================
+[2019-08-15 19:14:15] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-15 19:16:36] Текст ошибки: 
+        Контроллер app\controllers\admin\LteController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-15 19:16:53] Текст ошибки: 
+        Контроллер app\controllers\admin\LteController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-16 11:04:20] Текст ошибки: 
+        Контроллер app\controllers\admin\LteController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-16 11:04:20] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-16 11:07:23] Текст ошибки: 
+        Контроллер app\controllers\admin\LteController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-16 11:10:59] Текст ошибки: 
+        Контроллер app\controllers\admin\LteController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-16 11:11:03] Текст ошибки: 
+        Контроллер app\controllers\admin\LteController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-16 11:11:32] Текст ошибки: 
+        Контроллер app\controllers\admin\LteController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-16 11:11:41] Текст ошибки: 
+        Контроллер app\controllers\admin\LteController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-16 11:14:15] Текст ошибки: 
+        Контроллер app\controllers\admin\LteController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-16 11:14:36] Текст ошибки: 
+        Контроллер app\controllers\admin\LteController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-16 11:14:45] Текст ошибки: 
+        Контроллер app\controllers\admin\LteController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-16 11:14:49] Текст ошибки: 
+        Контроллер app\controllers\admin\LteController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-16 11:14:54] Текст ошибки: 
+        Контроллер app\controllers\admin\LteController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-16 11:18:52] Текст ошибки: 
+        Контроллер app\controllers\admin\LteController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-16 11:19:24] Текст ошибки: 
+        Контроллер app\controllers\admin\LteController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-16 11:19:32] Текст ошибки: 
+        Контроллер app\controllers\admin\SearchController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-16 11:21:55] Текст ошибки: 
+        Контроллер app\controllers\admin\SearchController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-16 11:22:57] Текст ошибки: 
+        Не найден вид C:\OpenServer\OSPanel\domains\ishop2.loc/app/views/admin/Search/index.php | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\base\View.php | Строка ошибки : 43
+====================
+[2019-08-16 11:23:07] Текст ошибки: 
+        Не найден вид C:\OpenServer\OSPanel\domains\ishop2.loc/app/views/admin/Search/index.php | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\base\View.php | Строка ошибки : 43
+====================
+[2019-08-16 11:28:11] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\admin\AppController.php | Строка ошибки : 34
+====================
+[2019-08-16 11:28:20] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\admin\AppController.php | Строка ошибки : 34
+====================
+[2019-08-16 11:28:27] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\admin\AppController.php | Строка ошибки : 34
+====================
+[2019-08-16 11:28:29] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\admin\AppController.php | Строка ошибки : 34
+====================
+[2019-08-16 11:28:30] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\admin\AppController.php | Строка ошибки : 34
+====================
+[2019-08-16 11:28:39] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\admin\AppController.php | Строка ошибки : 34
+====================
+[2019-08-16 12:22:30] Текст ошибки: 
+        SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE title LIKE '%Casio MRP-700-1AVEF%' AND status = '1'' at line 3 | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка ошибки : 194
+====================
+[2019-08-16 12:23:35] Текст ошибки: 
+        SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'JOIN category ON category.id = product.category_id 
+                    JOIN br' at line 2 | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка ошибки : 194
+====================
+[2019-08-16 12:26:30] Текст ошибки: 
+        SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'JOIN category ON category.id = product.category_id 
+                    JOIN br' at line 2 | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка ошибки : 194
+====================
+[2019-08-16 13:30:05] Текст ошибки: 
+        Метод app\controllers\UserController::cabinetAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-16 13:32:05] Текст ошибки: 
+        Не найден вид C:\OpenServer\OSPanel\domains\ishop2.loc/app/views/User/cabinet.php | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\base\View.php | Строка ошибки : 43
+====================
+[2019-08-16 13:38:53] Текст ошибки: 
+        Метод app\controllers\UserController::editAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-16 13:38:56] Текст ошибки: 
+        Метод app\controllers\UserController::ordersAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-16 13:42:26] Текст ошибки: 
+        Не найден вид C:\OpenServer\OSPanel\domains\ishop2.loc/app/views/User/edit.php | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\base\View.php | Строка ошибки : 43
+====================
+[2019-08-16 16:06:27] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 08:43:28] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 09:04:38] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:52] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:52] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:52] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:52] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:52] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:52] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:52] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:12:53] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:10] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:13:56] Текст ошибки: 
+        Контроллер app\controllers\SadadController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-17 10:27:04] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:28:41] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:29:08] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:29:21] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:29:27] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:30:42] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:33:29] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:33:40] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:34:58] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:36:32] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:36:32] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:36:32] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:36:32] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:36:32] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:36:32] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:36:32] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:36:32] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:36:32] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:36:32] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:11] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:12] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:12] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:12] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:12] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:12] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:12] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:12] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:12] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:12] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:20] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:20] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:20] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:20] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:20] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:20] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:20] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:20] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:20] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:20] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:57] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:57] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:57] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:57] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:57] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:57] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:57] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:57] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:57] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 10:37:57] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 11:11:58] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 11:11:59] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 11:15:08] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 14:25:46] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 14:28:13] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 14:59:44] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 15:18:25] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-17 15:28:00] Текст ошибки: 
+        Метод app\controllers\CategoryController::indexAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-17 15:28:05] Текст ошибки: 
+        Метод app\controllers\CategoryController::indexAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-17 15:28:07] Текст ошибки: 
+        Метод app\controllers\CategoryController::indexAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-18 08:26:00] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-18 09:45:26] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-18 10:34:37] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-18 13:28:05] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-18 20:17:03] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-18 21:14:23] Текст ошибки: 
+        Метод app\controllers\BrandsController::prodAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-18 21:16:45] Текст ошибки: 
+        Метод app\controllers\BrandsController::indexAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-18 21:16:50] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-18 21:16:53] Текст ошибки: 
+        Метод app\controllers\BrandsController::indexAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-18 21:18:52] Текст ошибки: 
+        Метод app\controllers\BrandsController::indexAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-18 21:20:20] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-18 21:20:20] Текст ошибки: 
+        Метод app\controllers\BrandsController::indexAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-18 21:21:12] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-19 08:03:03] Текст ошибки: 
+        Метод app\controllers\BrandsController::indexAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-19 08:03:03] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-19 08:05:53] Текст ошибки: 
+        syntax error, unexpected '}' | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\BrandsController.php | Строка ошибки : 27
+====================
+[2019-08-19 08:13:50] Текст ошибки: 
+        SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  -- keep-cache' at line 1 | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка ошибки : 194
+====================
+[2019-08-19 08:34:53] Текст ошибки: 
+        Контроллер app\controllers\FalseController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-19 08:34:54] Текст ошибки: 
+        Контроллер app\controllers\FalseController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-19 08:34:55] Текст ошибки: 
+        Контроллер app\controllers\FalseController не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 43
+====================
+[2019-08-19 08:51:33] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-21 20:25:16] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-23 10:10:12] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-23 10:14:38] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-23 10:14:51] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-23 10:15:11] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-23 10:45:11] Текст ошибки: 
+        Class 'ishop\base\View' not found | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\base\Controller.php | Строка ошибки : 29
+====================
+[2019-08-23 10:45:21] Текст ошибки: 
+        Class 'ishop\base\View' not found | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\base\Controller.php | Строка ошибки : 29
+====================
+[2019-08-23 10:45:23] Текст ошибки: 
+        Class 'ishop\base\View' not found | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\base\Controller.php | Строка ошибки : 29
+====================
+[2019-08-23 10:45:24] Текст ошибки: 
+        Class 'ishop\base\View' not found | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\base\Controller.php | Строка ошибки : 29
+====================
+[2019-08-23 10:45:28] Текст ошибки: 
+        Class 'ishop\base\View' not found | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\base\Controller.php | Строка ошибки : 29
+====================
+[2019-08-23 10:45:44] Текст ошибки: 
+        Class 'ishop\base\View' not found | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\base\Controller.php | Строка ошибки : 29
+====================
+[2019-08-23 12:33:58] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-23 12:37:13] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-23 12:39:37] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-30 13:34:46] Текст ошибки: 
+        Метод app\controllers\CartController::changeQtyAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-30 13:34:51] Текст ошибки: 
+        Метод app\controllers\CartController::changeQtyAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-30 13:35:28] Текст ошибки: 
+        Метод app\controllers\CartController::changeQtyAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-30 13:36:04] Текст ошибки: 
+        Метод app\controllers\CartController::changeQtyAction не найден | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 40
+====================
+[2019-08-30 13:36:47] Текст ошибки: 
+        Call to protected method app\controllers\CartController::changeQtyAction() from context 'ishop\Router' | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 37
+====================
+[2019-08-30 13:37:05] Текст ошибки: 
+        Call to protected method app\controllers\CartController::changeQtyAction() from context 'ishop\Router' | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 37
+====================
+[2019-08-30 13:38:03] Текст ошибки: 
+        Не найден вид C:\OpenServer\OSPanel\domains\ishop2.loc/app/views/Cart/changeQty.php | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\base\View.php | Строка ошибки : 43
+====================
+[2019-08-30 13:42:17] Текст ошибки: 
+        Too few arguments to function app\controllers\CartController::changeQtyAction(), 0 passed in C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php on line 37 and exactly 1 expected | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\CartController.php | Строка ошибки : 39
+====================
+[2019-08-30 13:42:52] Текст ошибки: 
+        Too few arguments to function app\controllers\CartController::changeQtyAction(), 0 passed in C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php on line 37 and exactly 1 expected | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\CartController.php | Строка ошибки : 39
+====================
+[2019-08-30 13:43:05] Текст ошибки: 
+        Too few arguments to function app\controllers\CartController::changeQtyAction(), 0 passed in C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php on line 37 and exactly 1 expected | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\CartController.php | Строка ошибки : 39
+====================
+[2019-08-30 13:47:48] Текст ошибки: 
+        Too few arguments to function app\controllers\CartController::changeQtyAction(), 0 passed in C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php on line 37 and exactly 1 expected | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\CartController.php | Строка ошибки : 40
+====================
+[2019-08-30 13:50:31] Текст ошибки: 
+        Too few arguments to function app\controllers\CartController::changeQtyAction(), 0 passed in C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php on line 37 and exactly 1 expected | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\CartController.php | Строка ошибки : 40
+====================
+[2019-08-30 13:51:05] Текст ошибки: 
+        Too few arguments to function app\controllers\CartController::changeQtyAction(), 0 passed in C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php on line 37 and exactly 1 expected | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\CartController.php | Строка ошибки : 40
+====================
+[2019-08-30 13:51:36] Текст ошибки: 
+        Too few arguments to function app\controllers\CartController::changeQtyAction(), 0 passed in C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php on line 37 and exactly 1 expected | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\CartController.php | Строка ошибки : 40
+====================
+[2019-08-30 13:51:52] Текст ошибки: 
+        Too few arguments to function app\controllers\CartController::changeQtyAction(), 0 passed in C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php on line 37 and exactly 1 expected | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\CartController.php | Строка ошибки : 40
+====================
+[2019-08-30 13:52:36] Текст ошибки: 
+        Call to undefined method app\controllers\CartController::changeQtyAction() | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\app\controllers\CartController.php | Строка ошибки : 32
+====================
+[2019-08-30 14:08:42] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-08-30 14:08:43] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-09-02 22:28:15] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
+[2019-09-18 08:39:47] Текст ошибки: 
+        Страница не найдена | Файл с ошибкой: C:\OpenServer\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка ошибки : 46
+====================
