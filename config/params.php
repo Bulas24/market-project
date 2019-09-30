@@ -1,13 +1,13 @@
 <?php
     return [
-    'admin_email' => 'arkad-plus@mail.ru',
+    'admin_email' => '',
         'shop_name' => 'Магазин ishop2.loc',
         'pagination' => 3,
-        'smtp_host' => 'smtp.yandex.ru',
-        'smtp_port' => '465',
-        'smtp_protocol' => 'SSL',
-        'smtp_login' => 'para2017dd@yandex.ru',
-        'smtp_password' => '19901990w',
+        'smtp_host' => '',
+        'smtp_port' => '',
+        'smtp_protocol' => '',
+        'smtp_login' => '',
+        'smtp_password' => '',
         'img_width' => 125,
         'img_height' => 200,
         'img_brand_width' => 350,
@@ -16,7 +16,7 @@
         'gallery_height' => 1000,
         'gallery_brand_width' => 1280,
         'gallery_brand_height' => 850,
-        'ik_key' => 'e1vLfW5LBz3E1S6K',
-        'ik_co_id' => '5d5a81901ae1bd1c1c8b4567',
+        'ik_key' => '',
+        'ik_co_id' => '',
 
     ];
